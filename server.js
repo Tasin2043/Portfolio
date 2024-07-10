@@ -1,15 +1,18 @@
 const express = require("express");
 const cors = require("cors");
-const dotenv = require("dotenv");
+require("dotenv").config();
 const path = require("path");
-
-// dotenv configuration
-dotenv.config();
+const bodyParser = require("body-parser");
+require("./models/db");
 
 // rest object
 const app = express();
 
+// port
+const PORT = process.env.PORT || 8080;
+
 //  middlewares
+app.use(bodyParser.json());
 app.use(cors());
 app.use(express.json());
 
@@ -22,9 +25,6 @@ app.use("/api/v1/portfolio", require("./routes/portfolioRoute"));
 app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "./client/build/index.html"));
 });
-
-// port
-const PORT = process.env.PORT || 8080;
 
 // listen
 app.listen(PORT, () => {
