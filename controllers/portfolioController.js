@@ -1,6 +1,7 @@
 const nodemailer = require("nodemailer");
 const BrevoTransport = require("nodemailer-brevo-transport");
 
+
 // transport
 const transporter = nodemailer.createTransport(
   new BrevoTransport({
@@ -49,5 +50,7 @@ const sendEmailController = (req, res) => {
     });
   }
 };
+
+
 
 module.exports = { sendEmailController };

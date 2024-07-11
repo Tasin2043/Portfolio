@@ -3,7 +3,6 @@ const cors = require("cors");
 require("dotenv").config();
 const path = require("path");
 const bodyParser = require("body-parser");
-require("./models/db");
 
 // rest object
 const app = express();
