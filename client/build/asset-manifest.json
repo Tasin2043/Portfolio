@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6acdc59.css",
-    "main.js": "/static/js/main.f1e96638.js",
+    "main.css": "/static/css/main.267169de.css",
+    "main.js": "/static/js/main.9fd9ba5e.js",
     "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
-    "static/media/Tasin_s_CV_2024_Updated.pdf": "/static/media/Tasin_s_CV_2024_Updated.60a26eed2c12899f0302.pdf",
+    "static/media/Tasin_s_CV_2024_Updated.pdf": "/static/media/Tasin_s_CV_2024_Updated.0ee021732cbd40f91c3e.pdf",
+    "static/media/CodewithTasin11.png": "/static/media/CodewithTasin11.ddaf318c5c5d614fa16b.png",
     "static/media/cover-photo.png": "/static/media/cover-photo.061ab4775f64ca79a9bd.png",
     "static/media/profile-photo.jpg": "/static/media/profile-photo.5b8ec100814e268926ad.jpg",
-    "static/media/CodewithTasin11.png": "/static/media/CodewithTasin11.1a3b1006d74d196eebee.png",
     "static/media/Edu-Portfolio-cover.png": "/static/media/Edu-Portfolio-cover.b5f1abd769455bc3f22a.png",
     "static/media/ECom-cover.png": "/static/media/ECom-cover.2df9b269442b4fbd39e4.png",
     "static/media/Portfolio-cover.png": "/static/media/Portfolio-cover.30d10798f2982326324b.png",
+    "static/media/mukhomukhi.png": "/static/media/mukhomukhi.8ed90e9a7befbf19acf2.png",
     "static/media/Thesis-cover.jpg": "/static/media/Thesis-cover.7340015a8a240e46cb15.jpg",
     "index.html": "/index.html",
-    "main.e6acdc59.css.map": "/static/css/main.e6acdc59.css.map",
-    "main.f1e96638.js.map": "/static/js/main.f1e96638.js.map",
+    "main.267169de.css.map": "/static/css/main.267169de.css.map",
+    "main.9fd9ba5e.js.map": "/static/js/main.9fd9ba5e.js.map",
     "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6acdc59.css",
-    "static/js/main.f1e96638.js"
+    "static/css/main.267169de.css",
+    "static/js/main.9fd9ba5e.js"
   ]
 }
