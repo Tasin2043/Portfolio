@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.267169de.css",
-    "main.js": "/static/js/main.0413fd63.js",
+    "main.js": "/static/js/main.eb3f6dd4.js",
     "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
-    "static/media/Tasin_s_CV_2024_Updated.pdf": "/static/media/Tasin_s_CV_2024_Updated.0ee021732cbd40f91c3e.pdf",
+    "static/media/Tasin_s_CV_2024_Updated.pdf": "/static/media/Tasin_s_CV_2024_Updated.97f524c4988a7a480677.pdf",
     "static/media/CodewithTasin11.png": "/static/media/CodewithTasin11.ddaf318c5c5d614fa16b.png",
     "static/media/cover-photo.png": "/static/media/cover-photo.061ab4775f64ca79a9bd.png",
     "static/media/profile-photo.jpg": "/static/media/profile-photo.5b8ec100814e268926ad.jpg",
@@ -14,11 +14,11 @@
     "static/media/Thesis-cover.jpg": "/static/media/Thesis-cover.7340015a8a240e46cb15.jpg",
     "index.html": "/index.html",
     "main.267169de.css.map": "/static/css/main.267169de.css.map",
-    "main.0413fd63.js.map": "/static/js/main.0413fd63.js.map",
+    "main.eb3f6dd4.js.map": "/static/js/main.eb3f6dd4.js.map",
     "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.267169de.css",
-    "static/js/main.0413fd63.js"
+    "static/js/main.eb3f6dd4.js"
   ]
 }
